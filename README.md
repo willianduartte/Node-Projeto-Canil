@@ -38,7 +38,7 @@ $ npm install
 $ npm start
 ```
 
-#Requisitos globais
+# Requisitos globais
 
 Para rodar essa aplicação voce precisa ter o nodemon o typescript e o ts-node instalados na sua maquina para isso rode o codigo abaixo no seu CDM (Prompt de comando)
 
