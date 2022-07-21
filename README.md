@@ -29,13 +29,13 @@ Para clonar e rodar essa aplicação você precisa ter o [Git](https://git-scm.c
 
 ```bash
 # Clonar o repositorio
-$ git Clone https://github.com/willianduartte/Node-Projeto-Canil
+git Clone https://github.com/willianduartte/Node-Projeto-Canil
 
 # com o repositorio selecionado no seu CDM rode
-$ npm install
+npm install
 
 # Rode o app
-$ npm start
+npm start
 ```
 
 # Requisitos globais
@@ -44,7 +44,7 @@ Para rodar essa aplicação voce precisa ter o nodemon o typescript e o ts-node 
 
 ```bash
 # Rode no seu CDM 
-$ npm i -g nodemon typescript ts-node
+npm i -g nodemon typescript ts-node
 ```
 
 Feito com <3 por [Willian Duarte](https://www.linkedin.com/in/willian-duarte-de-souza-4321a6230/)
