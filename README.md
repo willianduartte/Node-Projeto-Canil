@@ -8,7 +8,7 @@
     <a href="#requisitos-globais">Requisitos globais</a>
 </p>
 
-<img src="./formulário multi etapas.png">
+<img src="./petshop.png">
 
 <h1 align='center'>
     <a href="https://obscure-ocean-69029.herokuapp.com/">Clique aqui para Testar o app</a>
